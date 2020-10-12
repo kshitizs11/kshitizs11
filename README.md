@@ -12,7 +12,7 @@
 - 🌱 I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures.
 
 ## 👀 What I am looking forward for at the moment: 
-- 👯 I am Open For Internships, You can Send me your Offer on My mail or just Message me.
+-  I am Open For Internships, You can Send me your Offer on My mail or just Message me.
 
 ## 🎣 How to Contact me:
 
