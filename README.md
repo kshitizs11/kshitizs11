@@ -4,7 +4,7 @@
 
 ## About me:
  
-- 🔭I am an undergraduate 3'rd Year student at Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi<br>
+- 🔭I am an undergraduate 3'rd Year student at <h2>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi</h2><br>
     pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
     and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Computer Science.<br>
     I love to explore technology which are related to Space,Artificial Intelligence and Computer Science 😍.
@@ -17,11 +17,9 @@
 ## How to reach me:
 
 
-#### Linked In:
 
-- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="E Mail" width="30" height="25"></a>
+- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="E Mail" width="25" height="20"></a>
 
-#### G Mail:
 
 - 📫 Email: <a href="kshitizs545@gmail.com"><img src="https://youngchefsprogram.files.wordpress.com/2014/05/gmail.png?w=640" alt="E Mail" width="20" height="15"></a>
 
