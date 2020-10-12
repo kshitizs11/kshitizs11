@@ -1,5 +1,5 @@
  # 👋 Hi, there it's me Kshitiz
- ![HitCount](http://hits.dwyl.com/kshitizs11/kshitizs11.svg)](http://hits.dwyl.com/kshitizs11/kshitizs11)
+ [![HitCount](http://hits.dwyl.com/kshitizs11/kshitizs11.svg)](http://hits.dwyl.com/kshitizs11/kshitizs11)
 
 
 ## 😎 About me:
