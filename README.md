@@ -32,7 +32,8 @@
 
 kshitizs11/kshitizs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## About me:<!--
+## About me:
+<!--
 **
  
 - 🔭I am an undergraduate 3'rd Year student at Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi<br>
