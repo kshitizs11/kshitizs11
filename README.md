@@ -19,7 +19,7 @@
 
 #### Linked In:
 
-- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://icons-for-free.com/iconfiles/png/512/linked+in+linkedin+media+professional+social+icon-1320193937978799908.png" alt="E Mail" width="30" height="25"></a>
+- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="E Mail" width="30" height="25"></a>
 
 #### G Mail:
 
