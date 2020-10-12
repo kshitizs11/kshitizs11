@@ -16,7 +16,7 @@
 
 ## 🎣 How to Contact me:
 
-- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="E Mail" width="25" height="20"></a>
+- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUVaXSwCsSsQYdbohn5Ulkoa1eRemfhzf82w&usqp=CAU" alt="Linked In" width="25" height="20"></a>
 
 
 - 📫 Email: <a href="kshitizs545@gmail.com"><img src="https://youngchefsprogram.files.wordpress.com/2014/05/gmail.png?w=640" alt="E Mail" width="20" height="15"></a>
@@ -24,7 +24,7 @@
 ## ⚡ Fun fact:
 
 
--  I belive i can make a difference in this world 
+-  I belive i can make a difference in this world. 
 
 # Happy Coding fellow's🤩.
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Girl in a jacket" width="500" height="300">
