@@ -4,7 +4,7 @@
 
 ## 😎 About me:
  
-- 🔭I am an undergraduate 3'rd Year student at <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi</b>br>
+- 🔭I am an undergraduate 3'rd Year student at <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> br>
     pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
     and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Computer Science.<br>
     I love to explore technology which are related to Space,Artificial Intelligence and Computer Science 😍.
