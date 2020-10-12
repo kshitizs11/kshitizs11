@@ -6,8 +6,7 @@
  
 - 🔭I am an undergraduate 3'rd Year student at <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> <br>
     pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
-    and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Computer Science.<br>
-    I love to explore technology which are related to Space,Artificial Intelligence and Computer Science 😍.
+    and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>😍.
 ## 🎯 What I,am Currently Working on:
 - 🌱 I am Data science, Web Development , Software development & Computer Vision Enthusiast and working on and learning in these domains.
 
@@ -30,10 +29,10 @@
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Girl in a jacket" width="500" height="300">
 
 
-<!--
-**kshitizs11/kshitizs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kshitizs11/kshitizs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## About me:
+## About me:<!--
+**
  
 - 🔭I am an undergraduate 3'rd Year student at Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi<br>
     pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
