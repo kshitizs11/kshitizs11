@@ -17,7 +17,7 @@
 #### How to reach me:
 
 - 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/"><img src="https://www.google.com/search?q=linke+in+images&rlz=1C1CHBD_enIN914IN914&sxsrf=ALeKk01OXqkztabB1dLWGKrimK5--RO_Dg:1602501588614&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi2ncPP967sAhUz6XMBHRUQAXkQ_AUoA3oECAwQBQ&biw=1536&bih=706&dpr=1.25#imgrc=ffExIpiV1CMBZM" alt="Linked In" style="width:42px;height:42px;"></a>
-- 📫 Email: <a href="kshitizs545@gmail.com"><img src="https://youngchefsprogram.files.wordpress.com/2014/05/gmail.png?w=640" alt="E Mail" style="width:1px;height:1px;"></a>
+- 📫 Email: <a href="kshitizs545@gmail.com"><img src="https://youngchefsprogram.files.wordpress.com/2014/05/gmail.png?w=640" alt="E Mail" width="2" height="2"></a>
 
 
 
