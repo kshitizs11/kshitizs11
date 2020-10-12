@@ -19,7 +19,7 @@
 - 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="Linked In" width="25" height="20"></a>
 
 
-- 📫 Email: <a href="kshitizs545@gmail.com"><img src="https://youngchefsprogram.files.wordpress.com/2014/05/gmail.png?w=640" alt="E Mail" width="25" height="20"></a>
+- 📫 Email: <a href="mailto: kshitizs545@gmail.com"><img src="https://youngchefsprogram.files.wordpress.com/2014/05/gmail.png?w=640" alt="E Mail" width="25" height="20"></a>
 
 ## ⚡ Fun fact:
 
