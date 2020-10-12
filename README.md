@@ -24,7 +24,7 @@
 ## ⚡ Fun fact:
 
 
--  I belive i can make a difference in this world 😇
+-  I belive i can make a difference in this world 
 
 # Happy Coding fellow's🤩.
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="300" height="300">
