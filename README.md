@@ -2,21 +2,19 @@
  ![HitCount](http://hits.dwyl.com/kshitizs11/kshitizs11.svg)](http://hits.dwyl.com/kshitizs11/kshitizs11)
 
 
-## About me:
+## 😎 About me:
  
 - 🔭I am an undergraduate 3'rd Year student at <h2>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi</h2><br>
     pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
     and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Computer Science.<br>
     I love to explore technology which are related to Space,Artificial Intelligence and Computer Science 😍.
-### What I,am Currently Working on:
+## 🎯 What I,am Currently Working on:
 - 🌱 I am Data science, Web Development , Software development & Computer Vision Enthusiast and working on and learning in these domains.
 
-### What I am looking forward for at the moment: 
+## 👀 What I am looking forward for at the moment: 
 - 👯 I am Open For Internships, You can Send me your Offer on My mail or just Message me.
 
-## How to reach me:
-
-
+## 🎣 How to Contact me:
 
 - 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="E Mail" width="25" height="20"></a>
 
