@@ -9,6 +9,7 @@
     and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>😍.
 ## 🎯 What I,am Currently Working on:
 - 🌱 I am Data science, Web Development , Software development & Computer Vision Enthusiast and working on and learning in these domains.
+- 🌱 I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures.
 
 ## 👀 What I am looking forward for at the moment: 
 - 👯 I am Open For Internships, You can Send me your Offer on My mail or just Message me.
