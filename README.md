@@ -16,7 +16,7 @@
 
 #### How to reach me:
 
-- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F22%2F11%2F56%2Flinked-in-2668700_1280.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flinked-in-logo-company-editorial-2668700%2F&tbnid=ffExIpiV1CMBZM&vet=12ahUKEwir_cam9K7sAhWc0jgGHfIaANMQMygEegUIARDAAQ..i&docid=NnRJEF5KKT4JEM&w=1280&h=1280&q=linked%20in%20images&ved=2ahUKEwir_cam9K7sAhWc0jgGHfIaANMQMygEegUIARDAAQ" alt="Linked In"></a>
+- 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/"><img src="https://www.google.com/search?q=linke+in+images&rlz=1C1CHBD_enIN914IN914&sxsrf=ALeKk01OXqkztabB1dLWGKrimK5--RO_Dg:1602501588614&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi2ncPP967sAhUz6XMBHRUQAXkQ_AUoA3oECAwQBQ&biw=1536&bih=706&dpr=1.25#imgrc=ffExIpiV1CMBZM" alt="Linked In" width="25" height="25"></a>
 - 📫 Email: <a href="kshitizs545@gmail.com">https://www.cyclonis.com/how-to-create-a-gmail-google-account-for-your-child/</a>
 
 
