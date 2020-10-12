@@ -27,7 +27,7 @@
 -  I belive i can make a difference in this world 
 
 # Happy Coding fellow's🤩.
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="300" height="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD0XOcpiGLHZCRvazbve5vRcWkP7SMa5gToA&usqp=CAU" alt="Girl in a jacket" width="300" height="300">
 
 
 <!--
