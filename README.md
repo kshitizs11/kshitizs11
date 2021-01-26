@@ -2,14 +2,14 @@
  [![HitCount](http://hits.dwyl.com/kshitizs11/kshitizs11.svg)](http://hits.dwyl.com/kshitizs11/kshitizs11)
 
 
-## 😎 About me:
+## About me:
  
-- 🔭I am an undergraduate 3'rd Year student at <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> <br>
+- I am an undergraduate 3'rd Year student at <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> <br>
     pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
-    and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>😍.
+    and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>.
 ## 🎯 What I,am Currently Working on:
-- 🌱 I am Data science, Web Development , Software development & Computer Vision Enthusiast and working on and learning in these domains.
-- 🌱 I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures.
+-  I am Data science, Web Development , Software development & Computer Vision Enthusiast and working on and learning in these domains.
+-  I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures.
 
 ## 👀 What I am looking forward for at the moment: 
 -  I am Open For Internships, You can Send me your Offer on My mail or just Message me.
