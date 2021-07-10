@@ -11,10 +11,10 @@
 -  I am Data science, Web Development , Natural Language Processing & Computer Vision Enthusiast and working on and learning in these domains.
 -  I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures,Computer Vision & Natural Language Processing.
 
-## 👀 What I am looking forward for at the moment: 
+## � What I am looking forward for at the moment: 
 -  I am Open For Internships, You can Send me your Offer on My mail or just Message me.
 
-## 🎣 How to Contact me:
+## � How to Contact me:
 
 - 📫 Linked In: <a href="https://www.linkedin.com/in/kshitiz-sharma-532446181/" ><img src="https://b-i.forbesimg.com/williamarruda/files/2013/11/256px-Linkedin_icon.svg_.png" alt="Linked In" width="25" height="20"></a>
 
