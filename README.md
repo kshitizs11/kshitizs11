@@ -4,9 +4,10 @@
 
 ## About me:
  
-- I am an undergraduate 3'rd Year student at <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> <br>
-    pursuing Bachelor of Engineering in Information Technology.I am highly enthusiastic in learning new technology<br>
-    and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>.
+- I am a Data Scientist at a healthcare based company <b>Innovaccer</b> working on Machine learning and Deep Learning based problems.</b> 
+- I have completed my graduation in Bachelor of Technology from <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> <br>
+  in Information Technology.I am highly enthusiastic in learning new technology<br>
+  and exploring new things.I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>.
 ## 🎯 What I,am Currently Working on:
 -  I am Data science, Web Development , Natural Language Processing & Computer Vision Enthusiast and working on and learning in these domains.
 -  I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures,Computer Vision & Natural Language Processing.
