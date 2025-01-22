@@ -3,17 +3,14 @@
 
 
 ## About me:
- 
-- I am a Data Scientist at a healthcare based company <b>Innovaccer</b> working on Machine learning and Deep Learning based problems.</b> 
-- I have completed my graduation in Bachelor of Technology from <b>Dr Akhilesh Das Gupta Institute Of Technology & Management,Delhi </b> 
+- Data Scientist with 2+ years of experience, specializing in addressing complex business issues across various sectors. Currently, contributing my expertise in the Healthcare field, employing techniques in Machine Learning, Generative AI,ML Ops, and Statistics to produce measurable business outcomes. Adept at utilizing Machine Learning, Generative AI and Statistical techniques to deliver tangible results to business. Hands-on exposure in rendering business solutions with the help of Data Analysis, Data Visualization, Data Cleaning, Model Development & Cloud infrastructure setup projects, resulting in a career business value of close to $5M.
+- I have completed my graduation in Bachelor of Technology from <b>Guru Gobind Singh Indraprastha University,Delhi </b> 
   in Information Technology.I am highly enthusiastic in learning new technology and exploring new things.<br>
-- I love to explore technology which are related to     Space,Artificial Intelligence and Science.<br>.
+- I love to explore technology which are related to Space,Artificial Intelligence and Science.<br>.
+
 ## 🎯 What I,am Currently Working on:
 -  I am Data science, Web Development , Natural Language Processing & Computer Vision Enthusiast and working on and learning in these domains.
 -  I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures,Computer Vision & Natural Language Processing.
-
-## � What I am looking forward for at the moment: 
--  I am Open For Internships, You can Send me your Offer on My mail or just Message me.
 
 ## � How to Contact me:
 
